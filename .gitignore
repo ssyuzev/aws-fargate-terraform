@@ -1,0 +1,10 @@
+.idea
+.venv
+.env
+env
+.terraform
+terraform*
+__pycache__
+*.pyo
+*.pyc
+*.pyd
