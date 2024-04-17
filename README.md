@@ -7,4 +7,4 @@
 
 
 How to check docker container locally run:
-`docker run -it -p 8000:80 demo:latest`
+`docker run -it -p 8000:80 app-repo:latest`
